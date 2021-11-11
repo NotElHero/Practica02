@@ -1,0 +1,7 @@
+# Fichero de configuracion
+# Thu Nov 14 10:49:39 CET 2013
+
+user=usuario
+password=micontrasena
+server=localhost
+port=3306
